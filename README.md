@@ -2,7 +2,7 @@ CNTK evaluation Java wrapper
 ==============
 
 This project is a Java wrapper for the Microsoft CNTK evaluation library ("EvalDll.dll").
-Its purpose is to give the ability to use trained neural network in a Java context.
+Its purpose is to give the ability to use trained neural networks in a Java context.
 
 How to use it
 --------------
