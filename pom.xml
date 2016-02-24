@@ -8,6 +8,15 @@
     <artifactId>cntk-java-wrapper</artifactId>
     <version>1.0</version>
 
+    <name>CNTK Java wrapper</name>
+    <description>Java wrapper for Microsoft CNTK</description>
+
+    <licenses>
+        <license>
+            <name>GNU GENERAL PUBLIC LICENSE, Version 3.0</name>
+        </license>
+    </licenses>
+
     <build>
         <sourceDirectory>src/main/java</sourceDirectory>
         <testSourceDirectory>src/test/java</testSourceDirectory>
